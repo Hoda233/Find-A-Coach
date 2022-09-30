@@ -1,4 +1,4 @@
-#Find A Coach App
+# Find A Coach App
 
 ## Table of contents:
 
